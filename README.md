@@ -10,6 +10,7 @@ Two categories were established based on the implementation of carbon tax polici
 This group comprises countries that have not adopted carbon tax policies:
 
 United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Australia, Saudi Arabia, Iran, Indonesia, South Africa, Turkey, Mexico, Thailand, Vietnam, Malaysia, Egypt, United Arab Emirates
+
 <br>
 2. Countries implementing Carbon Tax:
 This category consists of countries that have implemented carbon tax policies:
