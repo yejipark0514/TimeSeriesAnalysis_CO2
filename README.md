@@ -6,9 +6,11 @@ For this project, data was collected on various economic and environmental indic
 ## Country Classification:
 Two categories were established based on the implementation of carbon tax policies:
 <br>
-1. Countries not implementing Carbon Tax: This group comprises countries that have not adopted carbon tax policies:
-United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Australia, Saudi Arabia, Iran, Indonesia, South Africa, Turkey, Mexico, Thailand, Vietnam, Malaysia, Egypt, United Arab Emirates
+1. Countries not implementing Carbon Tax:
 <br>
-3. Countries implementing Carbon Tax: This category consists of countries that have implemented carbon tax policies:
+This group comprises countries that have not adopted carbon tax policies:
+<br> United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Australia, Saudi Arabia, Iran, Indonesia, South Africa, Turkey, Mexico, Thailand, Vietnam, Malaysia, Egypt, United Arab Emirates
+<br>
+2. Countries implementing Carbon Tax: <br>This category consists of countries that have implemented carbon tax policies:<br>
 Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland, Japan, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, Norway, Poland, Portugal, Singapore, Slovenia, South Africa, Sweden, Switzerland, Ukraine, United Kingdom
 
