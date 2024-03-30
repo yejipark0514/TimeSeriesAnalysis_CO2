@@ -13,5 +13,6 @@ United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Austr
 <br>
 2. Countries implementing Carbon Tax:
 
+
 Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland, Japan, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, Norway, Poland, Portugal, Singapore, Slovenia, South Africa, Sweden, Switzerland, Ukraine, United Kingdom
 
