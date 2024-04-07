@@ -10,6 +10,7 @@ Two categories were established based on the implementation of carbon tax polici
 United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Australia, Saudi Arabia, Iran, Indonesia, South Africa, Turkey, Mexico, Thailand, Vietnam, Malaysia, Egypt, United Arab Emirates
 
 <br>
+
 2. **Countries implementing Carbon Tax**:
 Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland, Japan, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, Norway, Poland, Portugal, Singapore, Slovenia, South Africa, Sweden, Switzerland, Ukraine, United Kingdom
 
@@ -25,7 +26,9 @@ I used this data to answer the following questions.
 - Regression
 
 ## My Findings
-1. Using exponential smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+<br>
+
+## 1. Using exponential smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
 
