@@ -26,6 +26,7 @@ I used this data to answer the following questions.
 
 ## My Findings
 1. Using exponential smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
 
 
