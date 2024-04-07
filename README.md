@@ -25,3 +25,9 @@ I used this data to answer the following questions.
 - Regression
 
 ## My Findings
+1. Using exponential smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+
+
+
+
+
