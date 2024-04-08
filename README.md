@@ -28,10 +28,26 @@ I used this data to answer the following questions.
 ## My Findings
 <br>
 
-## 1. Using exponential smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+## 1. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
+<br> 
+
+## 2. 
+![w:o carbon tax](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4b75b6e3-6987-400c-9796-60f7dd169e3d)
 
 
+<br>
 
+## 3.
+![w: carbon tax](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/338e650b-1665-4629-a346-2c6eee143de4)
 
+<br>
+
+## 4. 
+![Carbon Tax Effect Line](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/99aa4c2e-63df-4ab5-b802-ad12f77c95fd)
+
+<br> 
+
+## 5.
+![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
