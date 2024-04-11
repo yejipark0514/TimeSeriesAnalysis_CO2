@@ -44,8 +44,14 @@ I used this data to answer the following questions.
 
 <br>
 
-## 4. 
+## 4. CO2 Emissions Trends Using Exponential Smoothing and Carbon Tax Effect Extracted from Panel OLS
 ![Carbon Tax Effect Line](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/99aa4c2e-63df-4ab5-b802-ad12f77c95fd)
+Using Exponential Smoothing, I generated predictions for CO2 emissions. Subsequently, from the Panel OLS analysis, I extracted the effect of the carbon tax, which was determined to be -0.608. To adjust the predictions accordingly, I subtracted this carbon tax effect from the previously obtained predicted values.
+
+
+
+
+
 
 <br> 
 
