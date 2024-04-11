@@ -20,10 +20,10 @@ I used this data to answer the following questions.
  
 - Research Question 
 
-## Models 
-- Exponential Smoothing
-- SARIMAX
-- Regression
+## Methods 
+- Panel OLS
+- Exponential Smoothing, Triple Exponential Smoothing
+- Lasso Regression, Ridge Regression
 
 ## My Findings
 <br>
