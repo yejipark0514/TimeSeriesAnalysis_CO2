@@ -1,6 +1,4 @@
 # TimeSeries Analysis 
-
-# This Project
 For this project, data was collected on various economic and environmental indicators from multiple countries since 1950. The key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita. 
 
 ## Country Classification:
