@@ -51,3 +51,11 @@ I used this data to answer the following questions.
 
 ## 5.
 ![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
+
+
+
+<br>
+
+## 6.
+![Lasso](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/2cebee79-b506-48d4-a1cb-3260caa0cfc6)
+
