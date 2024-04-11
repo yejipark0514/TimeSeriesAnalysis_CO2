@@ -31,7 +31,7 @@ I used this data to answer the following questions.
 ## 1. Future CO2 Emissions Trends with Carbon Tax Implementation Using Exponential Smoothing 
 ![Carbon Tax Effect Line](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/99aa4c2e-63df-4ab5-b802-ad12f77c95fd)
 
-Using Exponential Smoothing, I generated predictions for CO2 emissions. Subsequently, from the Panel OLS analysis, I extracted the effect of the carbon tax, which was determined to be -0.608. To adjust the predictions accordingly, I subtracted this carbon tax effect from the previously obtained predicted values.
+Using Exponential Smoothing, I generated predictions for the forthcoming 10 years' CO2 emissions in the United States. Subsequently, from the Panel OLS analysis, I extracted the effect of the carbon tax, which was determined to be -0.608. To adjust the predictions accordingly, I subtracted this carbon tax effect from the previously obtained predicted values.
 
 
 
@@ -52,6 +52,15 @@ Using Exponential Smoothing, I generated predictions for CO2 emissions. Subseque
 
 ## 5. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
+
+
+## 6. Future CO2 Emissions Trends with Carbon Tax Implementation Using Triple Exponential Smoothing
+![Forecast](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/9ccccc6d-8022-4c20-a3b4-cc4bd6bbdc2c)
+
+Utilizing Triple Exponential Smoothing, I derived forecasts for the forthcoming 10 years' CO2 emissions in the United States. Following this, I extracted the impact of the Carbon Tax through Lasso regression, identifying it as -1.57. Subsequently, I integrated this effect into the Triple Exponential Smoothing model.
+
+
+
 
 
 
