@@ -16,15 +16,16 @@ Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland,
 ## Aim
 I used this data to answer the following questions.
  
-- Research Question 
+- Research Question: What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?
 
 ## Methods 
 - Panel OLS
 - Exponential Smoothing, Triple Exponential Smoothing
 - Lasso Regression, Ridge Regression
 
-## My Findings
 <br>
+
+## My Findings
 
 ## 1. Future CO2 Emissions Trends with Carbon Tax Implementation Using Exponential Smoothing 
 ![Carbon Tax Effect Line](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/99aa4c2e-63df-4ab5-b802-ad12f77c95fd)
