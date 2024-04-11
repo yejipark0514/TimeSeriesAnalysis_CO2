@@ -42,7 +42,7 @@ Using Exponential Smoothing, I generated predictions for CO2 emissions. Subseque
 
 ## 3. Future CO2 Emissions Trends with Carbon Tax Implementation Using Lasso Regression
 
-![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
+![Lasso](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/2cebee79-b506-48d4-a1cb-3260caa0cfc6)
 
 
 ## 4. Future CO2 Emissions Trends with Carbon Tax Implementation Using Ridge Regression
@@ -54,35 +54,4 @@ Using Exponential Smoothing, I generated predictions for CO2 emissions. Subseque
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
 
-
-
-
-
-
-
-![w:o carbon tax](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4b75b6e3-6987-400c-9796-60f7dd169e3d)
-
-
-<br>
-
-## 3.
-![w: carbon tax](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/338e650b-1665-4629-a346-2c6eee143de4)
-
-<br>
-
-
-
-
-
-<br> 
-
-## 5.
-![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
-
-
-
-<br>
-
-## 6.
-![Lasso](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/2cebee79-b506-48d4-a1cb-3260caa0cfc6)
 
