@@ -36,12 +36,18 @@ Using Exponential Smoothing, I generated predictions for CO2 emissions. Subseque
 
 <br>
 
-## 2. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+## 2. Comparison of Future Predicted CO2 Emissions with and without Carbon Tax Implementation (Refer to #1) 
+
+![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
+
+
+
+## 3. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
 <br> 
 
-## 3. CO2 Emissions Trends Using Triple Exponential Smoothing and Carbon Tax Effect Extracted from Lasso Regression 
+## 4. CO2 Emissions Trends Using Triple Exponential Smoothing and Carbon Tax Effect Extracted from Lasso Regression 
 
 ## 2. CO2 Emissions Trends Using Triple Exponential Smoothing and Carbon Tax Effect Extracted from Lasso Regression 
 
