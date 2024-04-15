@@ -27,14 +27,14 @@ I used this data to answer the following questions.
 
 ## My Findings
 
-### 1. Future CO2 Emissions Trends with Carbon Tax Implementation Using Exponential Smoothing 
+## 1. Future CO2 Emissions Trends with Carbon Tax Implementation Using Exponential Smoothing 
 ![Carbon Tax Effect Line](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/99aa4c2e-63df-4ab5-b802-ad12f77c95fd)
 
 Using Exponential Smoothing, I generated predictions for the forthcoming 10 years' CO2 emissions in the United States. Subsequently, from the Panel OLS analysis, I extracted the effect of the carbon tax, which was determined to be -0.608. To adjust the predictions accordingly, I subtracted this carbon tax effect from the previously obtained predicted values.
 
 
 
-### 2. Comparison of Future Predicted CO2 Emissions with and without Carbon Tax Implementation (Refer to #1) 
+## 2. Comparison of Future Predicted CO2 Emissions with and without Carbon Tax Implementation (Refer to #1) 
 
 ![W:   W:O](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/4372ae7d-00fc-421c-b384-7af845e90ed5)
 
