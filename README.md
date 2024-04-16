@@ -1,5 +1,6 @@
 # TimeSeries Analysis 
-For this project, data was collected on various economic and environmental indicators from multiple countries since 1950. The key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita. 
+For this project, the aim is to answer the question: "What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?"
+Data was collected on various economic and environmental indicators from multiple countries since 1950 from OECD and IEA. Key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita.
 
 ## Country Classification:
 Two categories were established based on the implementation of carbon tax policies:
@@ -13,16 +14,16 @@ United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Austr
 Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland, Japan, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, Norway, Poland, Portugal, Singapore, Slovenia, South Africa, Sweden, Switzerland, Ukraine, United Kingdom
 
 
-## Aim
-I used this data to answer the following questions.
- 
-- Research Question: What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?
-
 ## Methods 
 - Panel OLS
 - Exponential Smoothing, Triple Exponential Smoothing
 - Lasso Regression, Ridge Regression
 
+I utilized different methods to: 
+1. **Detection of Differences**: Employing different methods allows for detecting differences in the data from multiple perspectives. Each method may capture distinct patterns or relationships within the data, providing a comprehensive understanding of the underlying dynamics.
+2. **Accuracy Assessment**: Utilizing multiple methods enables the evaluation of model accuracy and robustness. By comparing the performance of different models against each other and against known outcomes, it becomes possible to identify which approach yields the most accurate predictions or insights.
+3. **Time Series Analysis vs. Regression**: Time series analysis methods like Triple Exponential Smoothing are well-suited for forecasting future events based on past data trends. On the other hand, regression techniques such as Lasso Regression and Ridge Regression are effective for detecting systematic changes and understanding the causal effects of policies, such as the implementation of a carbon tax.
+4. **Addressing Different Objectives**: Each method serves a specific purpose in addressing the project's objectives. Panel OLS may be used to analyze the effects of policy interventions across different countries, while Exponential Smoothing techniques can provide short-term forecasts of CO2 emissions trends. Lasso and Ridge Regression offer insights into the relationship between economic and environmental indicators, aiding in understanding the potential impact of a carbon tax.
 <br>
 
 ## My Findings
