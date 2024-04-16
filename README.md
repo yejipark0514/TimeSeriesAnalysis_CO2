@@ -10,7 +10,7 @@ Overall, this study provides insights into the potential effectiveness of carbon
 
 
 ## Overview
-For this project, the aim is to answer the question: "What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?"
+For this project, the aim is to answer the question: **"What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?"**
 
 Data was collected on various economic and environmental indicators from multiple countries since 1950 from OECD and IEA. Key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita.
 
