@@ -1,4 +1,15 @@
 # TimeSeries Analysis 
+
+
+## Abstract 
+This study investigates the potential impact of implementing a carbon tax policy on CO2 emissions in the United States over the next decade. Utilizing data from multiple countries sourced from the OECD and IEA since 1950, various economic and environmental indicators were analyzed. Countries were classified into two categories based on their carbon tax policies. A diverse set of methods including Panel OLS analysis, Exponential Smoothing, Lasso Regression, and Ridge Regression were employed to detect differences, evaluate accuracy, and understand the causal effects of policy interventions.
+
+Using Exponential Smoothing, future projections for U.S. CO2 emissions were generated, and the effect of a carbon tax was quantified through Lasso regression. The results indicated a potential reduction of approximately 1.57 tonnes per year in CO2 emissions, totaling around 15.7 tonnes over the period 2024-2030. Incorporating this carbon tax effect into the Triple Exponential Smoothing model refined the projections, suggesting a continuation of current trends in CO2 emissions reduction.
+
+Overall, this study provides insights into the potential effectiveness of carbon tax policies in mitigating CO2 emissions and highlights the importance of incorporating sustainable practices alongside policy implementation to achieve environmental objectives.
+
+
+## Overview
 For this project, the aim is to answer the question: "What will be the reduction in CO2 emissions for the United States over the next 10 years if a carbon tax is implemented?"
 
 Data was collected on various economic and environmental indicators from multiple countries since 1950 from OECD and IEA. Key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita.
