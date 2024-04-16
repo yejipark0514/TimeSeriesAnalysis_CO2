@@ -14,7 +14,7 @@ For this project, the aim is to answer the question: **"What will be the reducti
 
 Data was collected on various economic and environmental indicators from multiple countries since 1950 from OECD and IEA. Key metrics include GDP per capita, corporate investment, industrial production, primary energy consumption, and CO2 emissions per capita.
 
-## Country Classification:
+### Country Classification:
 Two categories were established based on the implementation of carbon tax policies:
 <br>
 1. **Countries not implementing Carbon Tax**:
@@ -26,7 +26,7 @@ United States, China, India, Russia, Brazil, Germany, South Korea, Canada, Austr
 Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland, Japan, Latvia, Liechtenstein, Luxembourg, Mexico, Netherlands, Norway, Poland, Portugal, Singapore, Slovenia, South Africa, Sweden, Switzerland, Ukraine, United Kingdom
 
 
-## Methods 
+### Methods 
 - Panel OLS
 - Exponential Smoothing, Triple Exponential Smoothing
 - Lasso Regression, Ridge Regression
