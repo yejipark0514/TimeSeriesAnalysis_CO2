@@ -60,10 +60,5 @@ Using Exponential Smoothing, I generated predictions for the forthcoming 10 year
 
 Utilizing Triple Exponential Smoothing, I forecasted the next decade's CO2 emissions for the United States. Subsequently, I quantified the impact of the Carbon Tax using Lasso regression, determining it to be a reduction of -1.57 tonnes. This effect was then incorporated into the Triple Exponential Smoothing model to refine the projections.
 
-
-## Conclusion and Future Directions
 Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per year compared to current projections, which is a total of approximately 15.7 tonnes over the period 2024-2030.
-
-
-
 
