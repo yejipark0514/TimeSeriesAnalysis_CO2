@@ -63,6 +63,7 @@ Utilizing Triple Exponential Smoothing, I derived forecasts for the forthcoming 
 
 
 ## Conclusion and Future Directions
+Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per year compared to current projections, which is a total of approximately 15.7 tonnes over the period 2024-2030.
 
 
 
