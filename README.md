@@ -78,7 +78,7 @@ To address uncertainty, I derived the confidence interval of the carbon tax effe
 
 In equation form: 
 
-  Carbon Tax Interval = (CI Lasso with Carbon Tax − CI Lasso without Carbon Tax) × Carbon Tax Effect Coefficient**
+  Carbon Tax Interval = (CI Lasso with Carbon Tax − CI Lasso without Carbon Tax) × Carbon Tax Effect Coefficient
 
-  Final Forecast Confidence Interval = Exponential Smoothing Confidence Interval − Carbon Tax Interval**
+  Final Forecast Confidence Interval = Exponential Smoothing Confidence Interval − Carbon Tax Interval
 
