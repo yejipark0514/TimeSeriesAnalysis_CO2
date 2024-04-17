@@ -1,4 +1,4 @@
-# TimeSeries Analysis 
+# Time Series Analysis 
 
 
 ## Abstract 
