@@ -76,7 +76,6 @@ Implementing a carbon tax would decrease CO2 emissions in the US by approximatel
 ### Dealing with Uncertainties
 To address uncertainty, I derived the confidence interval of the carbon tax effect by computing the difference between the confidence intervals of the lasso regression model with and without the carbon tax. I then multiplied this carbon tax effect coefficient by the carbon tax interval. Subsequently, I utilized this carbon tax interval to determine the confidence interval of the final forecast by subtracting it from the confidence interval obtained through exponential smoothing.
 
-In equation form:
 **Carbon Tax Interval = (CI Lasso with Carbon Tax − CI Lasso without Carbon Tax) × Carbon Tax Effect Coefficient**
 
 **Final Forecast Confidence Interval = Exponential Smoothing Confidence Interval − Carbon Tax Interval**
