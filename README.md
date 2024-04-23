@@ -29,7 +29,7 @@ Argentina, Chile, Colombia, Denmark, Estonia, Finland, France, Iceland, Ireland,
 ### Methods 
 - Panel OLS
 - Exponential Smoothing, Triple Exponential Smoothing
-- Lasso Regression, Ridge Regression
+- Lasso Regression
 
 I utilized different methods for: 
 1. **Detection of Differences**: Employing different methods allows for detecting differences in the data from multiple perspectives. Each method may capture distinct patterns or relationships within the data, providing a comprehensive understanding of the underlying dynamics.
@@ -57,21 +57,16 @@ Using Exponential Smoothing, I generated predictions for the forthcoming 10 year
 ![Lasso](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/2cebee79-b506-48d4-a1cb-3260caa0cfc6)
 
 
-## 4. Future CO2 Emissions Trends with Carbon Tax Implementation Using Ridge Regression
-
-![Unknown](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/ac88be8a-8c59-4be6-9a56-b727a751d7f1)
-
-
-## 5. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
+## 4. Using Triple Exponential Smoothing, future projections for U.S. CO2 emissions suggest a continuation of current trends in their reduction over time.
 ![US_ExponentialSmoothing](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/c3270ae9-43d6-48e0-812b-46cd76cc3505)
 
 
-## 6. Future CO2 Emissions Trends with Carbon Tax Implementation Using Triple Exponential Smoothing
+## 5. Future CO2 Emissions Trends with Carbon Tax Implementation Using Triple Exponential Smoothing
 ![final](https://github.com/yejipark0514/TimeSeriesAnalysis_CO2/assets/97747420/0652b9e8-ef4f-4449-a735-b40620d15768)
 
-Utilizing Triple Exponential Smoothing, I forecasted the next decade's CO2 emissions for the United States. Subsequently, I quantified the impact of the Carbon Tax using Lasso regression, determining it to be a reduction of -1.57 tonnes. This effect was then incorporated into the Triple Exponential Smoothing model to refine the projections.
+Utilizing Triple Exponential Smoothing, I forecasted the next decade's CO2 emissions for the United States. Subsequently, I quantified the impact of the Carbon Tax using Lasso regression, determining it to be a reduction of -1.57 tonnes per capita. This effect was then incorporated into the Triple Exponential Smoothing model to refine the projections.
 
-**Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per year compared to current projections, which is a total of approximately 15.7 tonnes over the period 2024-2030.**
+**Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per capita per year compared to current projections, which is a total of approximately 15.7 tonnes per capita over the period 2023-2033.**
 
 ## Dealing with Uncertainties - Confidence Interval
 To address uncertainty, I derived the confidence interval of the carbon tax effect by computing the difference between the confidence intervals of the lasso regression model with and without the carbon tax. I then multiplied this carbon tax effect coefficient by the carbon tax interval. Subsequently, I utilized this carbon tax interval to determine the confidence interval of the final forecast by subtracting it from the confidence interval obtained through exponential smoothing.
