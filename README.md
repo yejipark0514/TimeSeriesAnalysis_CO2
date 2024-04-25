@@ -67,7 +67,7 @@ Using Exponential Smoothing, I generated predictions for the forthcoming 10 year
 Utilizing Triple Exponential Smoothing, I forecasted the next decade's CO2 emissions for the United States. Subsequently, I quantified the impact of the Carbon Tax using Lasso regression, determining it to be a reduction of -1.57 tonnes per capita. This effect was then incorporated into the Triple Exponential Smoothing model to refine the projections.
 
 
-** Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per capita per year compared to current projections, which amounts to a total reduction of approximately 15.7 tonnes per capita over the period 2023-2032. This represents a decrease of CO2 emissions per capita by approximately 13.36% from 2022 to 2033.**
+**Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per capita per year compared to current projections, which amounts to a total reduction of approximately 15.7 tonnes per capita over the period 2023-2032. This represents a decrease of CO2 emissions per capita by approximately 13.36% from 2022 to 2033.**
 
 
 
