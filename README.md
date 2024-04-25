@@ -66,10 +66,13 @@ Using Exponential Smoothing, I generated predictions for the forthcoming 10 year
 
 Utilizing Triple Exponential Smoothing, I forecasted the next decade's CO2 emissions for the United States. Subsequently, I quantified the impact of the Carbon Tax using Lasso regression, determining it to be a reduction of -1.57 tonnes per capita. This effect was then incorporated into the Triple Exponential Smoothing model to refine the projections.
 
-**Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per capita per year compared to current projections, which is a total of approximately 15.7 tonnes per capita over the period 2023-2033.**
+
+** Implementing a carbon tax would decrease CO2 emissions in the US by approximately 1.57 tonnes per capita per year compared to current projections, which amounts to a total reduction of approximately 15.7 tonnes per capita over the period 2023-2032. This represents a decrease of CO2 emissions per capita by approximately 13.36% from 2022 to 2033.**
+
+
 
 ## Dealing with Uncertainties - Confidence Interval
-To address uncertainty, I derived the confidence interval of the carbon tax effect by computing the difference between the confidence intervals of the lasso regression model with and without the carbon tax. I then multiplied this carbon tax effect coefficient by the carbon tax interval. Subsequently, I utilized this carbon tax interval to determine the confidence interval of the final forecast by subtracting it from the confidence interval obtained through exponential smoothing.
+To address uncertainty, I derived the confidence interval of the carbon tax effect by computing the difference between the confidence intervals of the lasso regression model with and without the carbon tax. I then multiplied this carbon tax effect coefficient by the carbon tax interval. Subsequently, I utilized this carbon tax interval to determine the confidence interval of the final forecast by subtracting it from the confidence interval obtained through exponential smoothing. 
 
 In equation form: 
 
